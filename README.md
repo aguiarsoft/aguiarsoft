@@ -1,1 +1,1 @@
-👋 Hi, I’m @aguiarsoft 👀 I’m interested in JavaScrip, CSS, HTML5, PHP, VFP, etc.
+👋 Hi, I’m @aguiarsoft 👀 I’m interested in JavaScript, PHP, VFP, etc.
